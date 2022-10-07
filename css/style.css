@@ -5,14 +5,12 @@ html {
 body{
     background-color:#0e0B16;
 }
-header {
+h1, h2, h3 {
     color:rgb(#4717f6);
-    font-weight: normal;
 }
 p {
     font-size: 1.15rem;
     color: #e7dfdd;
-    font-family:  Arial, sans-serif;
 }
 a {
 
